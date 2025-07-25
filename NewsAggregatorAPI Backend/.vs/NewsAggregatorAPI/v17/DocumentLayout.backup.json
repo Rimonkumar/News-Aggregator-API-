@@ -1,0 +1,583 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD41B2D6-7091-4E41-B14F-21DFA7431C9C}|NewsAggregatorAPI\\NewsAggregatorAPI.csproj|C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\newsaggregatorapi\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD41B2D6-7091-4E41-B14F-21DFA7431C9C}|NewsAggregatorAPI\\NewsAggregatorAPI.csproj|solutionrelative:newsaggregatorapi\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50C9257-3B14-477C-9AC9-92462BE4A8A0}|DAL\\DAL.csproj|C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\dal\\interface\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50C9257-3B14-477C-9AC9-92462BE4A8A0}|DAL\\DAL.csproj|solutionrelative:dal\\interface\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50C9257-3B14-477C-9AC9-92462BE4A8A0}|DAL\\DAL.csproj|C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\dal\\interface\\iauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50C9257-3B14-477C-9AC9-92462BE4A8A0}|DAL\\DAL.csproj|solutionrelative:dal\\interface\\iauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50C9257-3B14-477C-9AC9-92462BE4A8A0}|DAL\\DAL.csproj|C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50C9257-3B14-477C-9AC9-92462BE4A8A0}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F905237-3AE9-4D86-9A97-E29D1BC3F975}|BLL\\BLL.csproj|C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F905237-3AE9-4D86-9A97-E29D1BC3F975}|BLL\\BLL.csproj|solutionrelative:bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50C9257-3B14-477C-9AC9-92462BE4A8A0}|DAL\\DAL.csproj|C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\dal\\repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50C9257-3B14-477C-9AC9-92462BE4A8A0}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD41B2D6-7091-4E41-B14F-21DFA7431C9C}|NewsAggregatorAPI\\NewsAggregatorAPI.csproj|c:\\users\\lenovo\\source\\projectnasp\\newsaggregatorapi\\newsaggregatorapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD41B2D6-7091-4E41-B14F-21DFA7431C9C}|NewsAggregatorAPI\\NewsAggregatorAPI.csproj|solutionrelative:newsaggregatorapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD41B2D6-7091-4E41-B14F-21DFA7431C9C}|NewsAggregatorAPI\\NewsAggregatorAPI.csproj|C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\newsaggregatorapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD41B2D6-7091-4E41-B14F-21DFA7431C9C}|NewsAggregatorAPI\\NewsAggregatorAPI.csproj|solutionrelative:newsaggregatorapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50C9257-3B14-477C-9AC9-92462BE4A8A0}|DAL\\DAL.csproj|C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\dal\\repos\\tokenrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50C9257-3B14-477C-9AC9-92462BE4A8A0}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\tokenrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F905237-3AE9-4D86-9A97-E29D1BC3F975}|BLL\\BLL.csproj|C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\bll\\dtos\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F905237-3AE9-4D86-9A97-E29D1BC3F975}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F905237-3AE9-4D86-9A97-E29D1BC3F975}|BLL\\BLL.csproj|C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\bll\\services\\articleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F905237-3AE9-4D86-9A97-E29D1BC3F975}|BLL\\BLL.csproj|solutionrelative:bll\\services\\articleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F905237-3AE9-4D86-9A97-E29D1BC3F975}|BLL\\BLL.csproj|C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\bll\\dtos\\articledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F905237-3AE9-4D86-9A97-E29D1BC3F975}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\articledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F905237-3AE9-4D86-9A97-E29D1BC3F975}|BLL\\BLL.csproj|C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\bll\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F905237-3AE9-4D86-9A97-E29D1BC3F975}|BLL\\BLL.csproj|solutionrelative:bll\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50C9257-3B14-477C-9AC9-92462BE4A8A0}|DAL\\DAL.csproj|C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\dal\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50C9257-3B14-477C-9AC9-92462BE4A8A0}|DAL\\DAL.csproj|solutionrelative:dal\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50C9257-3B14-477C-9AC9-92462BE4A8A0}|DAL\\DAL.csproj|C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\dal\\model\\articlescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50C9257-3B14-477C-9AC9-92462BE4A8A0}|DAL\\DAL.csproj|solutionrelative:dal\\model\\articlescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F905237-3AE9-4D86-9A97-E29D1BC3F975}|BLL\\BLL.csproj|C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\bll\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F905237-3AE9-4D86-9A97-E29D1BC3F975}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50C9257-3B14-477C-9AC9-92462BE4A8A0}|DAL\\DAL.csproj|C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\dal\\model\\articles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50C9257-3B14-477C-9AC9-92462BE4A8A0}|DAL\\DAL.csproj|solutionrelative:dal\\model\\articles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50C9257-3B14-477C-9AC9-92462BE4A8A0}|DAL\\DAL.csproj|C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\dal\\repos\\articlerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50C9257-3B14-477C-9AC9-92462BE4A8A0}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\articlerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50C9257-3B14-477C-9AC9-92462BE4A8A0}|DAL\\DAL.csproj|C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\dal\\repos\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50C9257-3B14-477C-9AC9-92462BE4A8A0}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50C9257-3B14-477C-9AC9-92462BE4A8A0}|DAL\\DAL.csproj|C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\dal\\repos\\sourcerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50C9257-3B14-477C-9AC9-92462BE4A8A0}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\sourcerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50C9257-3B14-477C-9AC9-92462BE4A8A0}|DAL\\DAL.csproj|C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\dal\\repos\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50C9257-3B14-477C-9AC9-92462BE4A8A0}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50C9257-3B14-477C-9AC9-92462BE4A8A0}|DAL\\DAL.csproj|C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50C9257-3B14-477C-9AC9-92462BE4A8A0}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50C9257-3B14-477C-9AC9-92462BE4A8A0}|DAL\\DAL.csproj|C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\dal\\model\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50C9257-3B14-477C-9AC9-92462BE4A8A0}|DAL\\DAL.csproj|solutionrelative:dal\\model\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F905237-3AE9-4D86-9A97-E29D1BC3F975}|BLL\\BLL.csproj|C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\bll\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F905237-3AE9-4D86-9A97-E29D1BC3F975}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F905237-3AE9-4D86-9A97-E29D1BC3F975}|BLL\\BLL.csproj|C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\bll\\dtos\\sourcedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F905237-3AE9-4D86-9A97-E29D1BC3F975}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\sourcedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD41B2D6-7091-4E41-B14F-21DFA7431C9C}|NewsAggregatorAPI\\NewsAggregatorAPI.csproj|C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\newsaggregatorapi\\auth\\logged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD41B2D6-7091-4E41-B14F-21DFA7431C9C}|NewsAggregatorAPI\\NewsAggregatorAPI.csproj|solutionrelative:newsaggregatorapi\\auth\\logged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50C9257-3B14-477C-9AC9-92462BE4A8A0}|DAL\\DAL.csproj|C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\dal\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50C9257-3B14-477C-9AC9-92462BE4A8A0}|DAL\\DAL.csproj|solutionrelative:dal\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50C9257-3B14-477C-9AC9-92462BE4A8A0}|DAL\\DAL.csproj|C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\dal\\model\\source.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50C9257-3B14-477C-9AC9-92462BE4A8A0}|DAL\\DAL.csproj|solutionrelative:dal\\model\\source.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD41B2D6-7091-4E41-B14F-21DFA7431C9C}|NewsAggregatorAPI\\NewsAggregatorAPI.csproj|C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\newsaggregatorapi\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD41B2D6-7091-4E41-B14F-21DFA7431C9C}|NewsAggregatorAPI\\NewsAggregatorAPI.csproj|solutionrelative:newsaggregatorapi\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD41B2D6-7091-4E41-B14F-21DFA7431C9C}|NewsAggregatorAPI\\NewsAggregatorAPI.csproj|C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\newsaggregatorapi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BD41B2D6-7091-4E41-B14F-21DFA7431C9C}|NewsAggregatorAPI\\NewsAggregatorAPI.csproj|solutionrelative:newsaggregatorapi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD41B2D6-7091-4E41-B14F-21DFA7431C9C}|NewsAggregatorAPI\\NewsAggregatorAPI.csproj|C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\newsaggregatorapi\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD41B2D6-7091-4E41-B14F-21DFA7431C9C}|NewsAggregatorAPI\\NewsAggregatorAPI.csproj|solutionrelative:newsaggregatorapi\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD41B2D6-7091-4E41-B14F-21DFA7431C9C}|NewsAggregatorAPI\\NewsAggregatorAPI.csproj|C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\newsaggregatorapi\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD41B2D6-7091-4E41-B14F-21DFA7431C9C}|NewsAggregatorAPI\\NewsAggregatorAPI.csproj|solutionrelative:newsaggregatorapi\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD41B2D6-7091-4E41-B14F-21DFA7431C9C}|NewsAggregatorAPI\\NewsAggregatorAPI.csproj|C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\newsaggregatorapi\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD41B2D6-7091-4E41-B14F-21DFA7431C9C}|NewsAggregatorAPI\\NewsAggregatorAPI.csproj|solutionrelative:newsaggregatorapi\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F905237-3AE9-4D86-9A97-E29D1BC3F975}|BLL\\BLL.csproj|C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F905237-3AE9-4D86-9A97-E29D1BC3F975}|BLL\\BLL.csproj|solutionrelative:bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\NewsAggregatorAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "NewsAggregatorAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\NewsAggregatorAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "NewsAggregatorAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAiwA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T08:18:38.005Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataAccessFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\DAL\\DataAccessFactory.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccessFactory.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\DAL\\DataAccessFactory.cs",
+              "RelativeToolTip": "DAL\\DataAccessFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T16:51:31.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TokenRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\DAL\\Repos\\TokenRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\TokenRepo.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\DAL\\Repos\\TokenRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\TokenRepo.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T07:57:59.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\BLL\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\BLL\\Services\\UserService.cs*",
+              "RelativeToolTip": "BLL\\Services\\UserService.cs*",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAswDQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T03:24:43.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\NewsAggregatorAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "NewsAggregatorAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\NewsAggregatorAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "NewsAggregatorAPI\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAowEoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T03:26:50.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\DAL\\Repos\\UserRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\UserRepo.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\DAL\\Repos\\UserRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\UserRepo.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T18:43:50.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAuth.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\DAL\\Interface\\IAuth.cs",
+              "RelativeDocumentMoniker": "DAL\\Interface\\IAuth.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\DAL\\Interface\\IAuth.cs",
+              "RelativeToolTip": "DAL\\Interface\\IAuth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T19:02:24.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\DAL\\Interface\\IRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interface\\IRepo.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\DAL\\Interface\\IRepo.cs",
+              "RelativeToolTip": "DAL\\Interface\\IRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T18:39:18.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticleController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\NewsAggregatorAPI\\Controllers\\ArticleController.cs",
+              "RelativeDocumentMoniker": "NewsAggregatorAPI\\Controllers\\ArticleController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\NewsAggregatorAPI\\Controllers\\ArticleController.cs*",
+              "RelativeToolTip": "NewsAggregatorAPI\\Controllers\\ArticleController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T20:05:08.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\DAL\\Model\\User.cs",
+              "RelativeDocumentMoniker": "DAL\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\DAL\\Model\\User.cs",
+              "RelativeToolTip": "DAL\\Model\\User.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAIA2wBgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T17:15:21.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TokenDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\BLL\\DTOs\\TokenDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\TokenDTO.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\BLL\\DTOs\\TokenDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\TokenDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T08:13:06.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\BLL\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\BLL\\Services\\AuthService.cs",
+              "RelativeToolTip": "BLL\\Services\\AuthService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wB8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T07:44:22.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ArticleService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\BLL\\Services\\ArticleService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\ArticleService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\BLL\\Services\\ArticleService.cs",
+              "RelativeToolTip": "BLL\\Services\\ArticleService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwBYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T19:56:02.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ArticleDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\BLL\\DTOs\\ArticleDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\ArticleDTO.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\BLL\\DTOs\\ArticleDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\ArticleDTO.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T19:41:14.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ArticlesContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\DAL\\Model\\ArticlesContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Model\\ArticlesContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\DAL\\Model\\ArticlesContext.cs",
+              "RelativeToolTip": "DAL\\Model\\ArticlesContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T17:58:47.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\BLL\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\BLL\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\UserDTO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wBIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T19:34:11.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ArticleRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\DAL\\Repos\\ArticleRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\ArticleRepo.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\DAL\\Repos\\ArticleRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\ArticleRepo.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAA5wC0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T19:10:03.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Articles.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\DAL\\Model\\Articles.cs",
+              "RelativeDocumentMoniker": "DAL\\Model\\Articles.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\DAL\\Model\\Articles.cs",
+              "RelativeToolTip": "DAL\\Model\\Articles.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwCIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T17:19:15.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Repo.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\DAL\\Repos\\Repo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\Repo.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\DAL\\Repos\\Repo.cs",
+              "RelativeToolTip": "DAL\\Repos\\Repo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T18:44:48.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SourceRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\DAL\\Repos\\SourceRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\SourceRepo.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\DAL\\Repos\\SourceRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\SourceRepo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T19:08:52.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CategoryRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\DAL\\Repos\\CategoryRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\CategoryRepo.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\DAL\\Repos\\CategoryRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\CategoryRepo.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T19:09:31.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\DAL\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\DAL\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "DAL\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAswEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T07:06:20.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Token.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\DAL\\Model\\Token.cs",
+              "RelativeDocumentMoniker": "DAL\\Model\\Token.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\DAL\\Model\\Token.cs",
+              "RelativeToolTip": "DAL\\Model\\Token.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T07:46:25.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\BLL\\DTOs\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\CategoryDTO.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\BLL\\DTOs\\CategoryDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\CategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T19:41:58.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SourceDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\BLL\\DTOs\\SourceDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\SourceDTO.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\BLL\\DTOs\\SourceDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\SourceDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T19:43:40.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Logged.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\NewsAggregatorAPI\\Auth\\Logged.cs",
+              "RelativeDocumentMoniker": "NewsAggregatorAPI\\Auth\\Logged.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\NewsAggregatorAPI\\Auth\\Logged.cs",
+              "RelativeToolTip": "NewsAggregatorAPI\\Auth\\Logged.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T12:04:18.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\DAL\\Model\\Category.cs",
+              "RelativeDocumentMoniker": "DAL\\Model\\Category.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\DAL\\Model\\Category.cs",
+              "RelativeToolTip": "DAL\\Model\\Category.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T17:41:56.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Source.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\DAL\\Model\\Source.cs",
+              "RelativeDocumentMoniker": "DAL\\Model\\Source.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\DAL\\Model\\Source.cs",
+              "RelativeToolTip": "DAL\\Model\\Source.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T17:35:06.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\NewsAggregatorAPI\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "NewsAggregatorAPI\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\NewsAggregatorAPI\\Models\\LoginModel.cs",
+              "RelativeToolTip": "NewsAggregatorAPI\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T08:19:23.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\NewsAggregatorAPI\\Web.config",
+              "RelativeDocumentMoniker": "NewsAggregatorAPI\\Web.config",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\NewsAggregatorAPI\\Web.config",
+              "RelativeToolTip": "NewsAggregatorAPI\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-23T18:03:38.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\NewsAggregatorAPI\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "NewsAggregatorAPI\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\NewsAggregatorAPI\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "NewsAggregatorAPI\\App_Start\\BundleConfig.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T20:17:35.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\NewsAggregatorAPI\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "NewsAggregatorAPI\\App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\NewsAggregatorAPI\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "NewsAggregatorAPI\\App_Start\\FilterConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T20:17:36.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\NewsAggregatorAPI\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "NewsAggregatorAPI\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\NewsAggregatorAPI\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "NewsAggregatorAPI\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T20:18:51.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "BLL\\Class1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\projectnAsp\\NewsAggregatorAPI\\BLL\\Class1.cs",
+              "RelativeToolTip": "BLL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T16:50:36.074Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

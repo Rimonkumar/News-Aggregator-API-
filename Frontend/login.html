@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <title>News Aggregator</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+</head>
+<body ng-app="my-app">
+
+    <!-- Login Form -->
+    <div ng-controller="loginCtrl">
+        <h3>Login</h3>
+        <form ng-submit="login()">
+            <input type="text" ng-model="l.Uname" placeholder="Username" required> <br>
+            <input type="password" ng-model="l.Password" placeholder="Password" required> <br>
+            <input type="submit" value="Login">
+        </form>
+    </div>
+
+    <!-- User List -->
+    <div ng-controller="userCtrl">
+        <h3>User List</h3>
+        <button ng-click="loadUsers()">Load Users</button>
+        <h4 style="color:red;">{{error}}</h4>
+        <ul>
+            <li ng-repeat="user in users">
+                Username: {{user.Uname}}, Name: {{user.Name}}, Email: {{user.Email}}
+            </li>
+        </ul>
+    </div>
+
+    <script>
+        var app = angular.module("my-app", []);
+
+        // Interceptor to add token
+        app.factory('interceptor', [function () {
+            return {
+                request: function (config) {
+                    const token = localStorage.getItem("tkey");
+                    if (token) {
+                        config.headers.Authorization = token;
+                    }
+                    return config;
+                },
+                response: function (response) {
+                    return response;
+                }
+            };
+        }]);
+
+        app.config(function ($httpProvider) {
+            $httpProvider.interceptors.push('interceptor');
+        });
+
+        // Login Controller
+        app.controller('loginCtrl', function ($scope, $http) {
+            $scope.login = function () {
+                var v = $scope.l;
+                $http.post("https://localhost:44339/api/login", v).then(function (resp) {
+                    localStorage.setItem("tkey", resp.data.TKey);
+                    alert("Login successful!");
+                }, function (err) {
+                    alert("Login failed!");
+                });
+            };
+        });
+
+        // Get All Users Controller
+        app.controller('userCtrl', function ($scope, $http) {
+            $scope.loadUsers = function () {
+                $http.get("https://localhost:44339/api/GetAllUsers").then(function (resp) {
+                    $scope.users = resp.data;
+                }, function (err) {
+                    $scope.error = "Could not load users. " + (err.data.Message || "Unknown error.");
+                });
+            };
+        });
+    </script>
+</body>
+</html>
