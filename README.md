@@ -19,6 +19,7 @@ Ideal for learning enterprise-level backend architecture, clean code principles,
 
 ## 📁 Project Structure
 NewsAggregatorAPI/
+
 ├── NewsAggregator.API # Presentation Layer (Controllers, Startup)
 
 ├── NewsAggregator.BLL # Business Logic Layer (Services, Interfaces)
